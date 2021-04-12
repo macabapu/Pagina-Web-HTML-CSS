@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    background: linear-gradient(120deg, rgba(241, 147, 251, 0.699), rgba(85, 27, 35, 0.692)), url(/Pagina-Web-HTML-CSS/Imagenes/4.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    color: white;
+    position: relative;
+}
+
+.Titulo{
+    font-size: 60px;
+}
+
+.Subtitulo{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.boton{
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #a18cd1;
+    padding: 12px 15px;
+    border-radius: 10px;
+}
+
+.Rotulo{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    
+}
+.Contenedor-General{
+    width: 80%;  
+    margin: auto; 
+}
+
+.Cont0{
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-between;   
+}
+
+.Imagen{
+    width: 480px;
+    height: 353.65px;
+    background-image: url(/Pagina-Web-HTML-CSS/Imagenes/7.png);
+    background-size: cover;
+    
+}
+.Contenido1{
+    width: 400px;
+    height: 353.65px;
+
+}
+
+.Tit{
+    font-size: 35px;
+}
+.Parraf
+{
+    font-size: 16px;
+}
+
+.botonsubmit{
+    background: linear-gradient(90deg, #FEA3A4 0%,#FDBAB4 32%, #FBC7BE 100%);
+    border: none;
+    border-radius: 10px;
+    padding: 12px 15px;
+    font-size: 16px;
+    color: white;
+}
