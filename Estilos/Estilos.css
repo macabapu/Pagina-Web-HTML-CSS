@@ -8,7 +8,7 @@ html{
 scroll-behavior: smoothc;
 }
 header{
-    background: linear-gradient(120deg, rgba(241, 147, 251, 0.699), rgba(85, 27, 35, 0.692)), url(/Pagina-Web-HTML-CSS/Imagenes/4.jpeg);
+    background: linear-gradient(120deg, rgba(241, 147, 251, 0.699), rgba(85, 27, 35, 0.692)), url("../Imagenes/4.jpeg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -62,7 +62,7 @@ header{
 .Imagen{
     width: 480px;
     height: 353.65px;
-    background-image: url("/Pagina-Web-HTML-CSS/Imagenes/7.png");
+    background-image: url("../Imagenes/7.png");
     background-size: cover;
     
 }
@@ -214,29 +214,29 @@ margin-bottom: 30px;
 }
 
 .Img1 {
-    background-image: url(/Pagina-Web-HTML-CSS/Imagenes/8.jpeg);
+    background-image: url("../Imagenes/8.jpeg");
     background-size: cover;
     }
 
 .Img2 {
-    background-image: url(/Pagina-Web-HTML-CSS/Imagenes/3.jpeg);
+    background-image: url("../Imagenes/3.jpeg");
     background-size: cover;
     }
 
 .Img3 {
-    background-image: url(/Pagina-Web-HTML-CSS/Imagenes/9.jpeg);
+    background-image: url("../Imagenes/9.jpeg");
     background-size: cover;
     }
 .Img4 {
-    background-image: url(/Pagina-Web-HTML-CSS/Imagenes/5.jpeg);
+    background-image: url("../Imagenes/5.jpeg");
     background-size: cover;
     }
 .Img5 {
-    background-image: url(/Pagina-Web-HTML-CSS/Imagenes/2.jpeg);
+    background-image: url("../Imagenes/2.jpeg");
     background-size: cover;
     }    
 .Img6 {
-    background-image: url(/Pagina-Web-HTML-CSS/Imagenes/8.jpeg);
+    background-image: url("../Imagenes/8.jpeg");
     background-size: cover;
     }                  
 
@@ -260,7 +260,7 @@ margin-bottom: 30px;
 .Imagen1{
     width: 480px;
     height: 375px;
-    background-image: url(/Pagina-Web-HTML-CSS/Imagenes/1.png);
+    background-image: url("../Imagenes/1.png");
     background-size: cover;
     
 }
